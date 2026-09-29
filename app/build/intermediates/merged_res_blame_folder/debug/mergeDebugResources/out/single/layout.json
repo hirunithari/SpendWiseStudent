@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\9.0.0\\com.example.spendwisestudent.app-mergeDebugResources-32:\\layout\\statistics.xml",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\9.0.0\\com.example.spendwisestudent.app-main-35:\\layout\\statistics.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\9.0.0\\com.example.spendwisestudent.app-mergeDebugResources-32:\\layout\\activity_history.xml",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\9.0.0\\com.example.spendwisestudent.app-main-35:\\layout\\activity_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\9.0.0\\com.example.spendwisestudent.app-mergeDebugResources-32:\\layout\\activity_add_edit_expense.xml",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\9.0.0\\com.example.spendwisestudent.app-main-35:\\layout\\activity_add_edit_expense.xml"
+    },
+    {
+        "merged": "com.example.spendwisestudent.app-mergeDebugResources-32:/layout/activity_statistics.xml",
+        "source": "com.example.spendwisestudent.app-main-35:/layout/activity_statistics.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\9.0.0\\com.example.spendwisestudent.app-mergeDebugResources-32:\\layout\\activity_budget.xml",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\9.0.0\\com.example.spendwisestudent.app-main-35:\\layout\\activity_budget.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\9.0.0\\com.example.spendwisestudent.app-mergeDebugResources-32:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\9.0.0\\com.example.spendwisestudent.app-main-35:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\9.0.0\\com.example.spendwisestudent.app-mergeDebugResources-32:\\layout\\activity_settings.xml",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\9.0.0\\com.example.spendwisestudent.app-main-35:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\9.0.0\\com.example.spendwisestudent.app-mergeDebugResources-32:\\layout\\item_expense.xml",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\9.0.0\\com.example.spendwisestudent.app-main-35:\\layout\\item_expense.xml"
+    }
+]

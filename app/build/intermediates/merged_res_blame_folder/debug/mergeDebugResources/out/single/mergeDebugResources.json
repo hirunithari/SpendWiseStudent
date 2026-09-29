@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\9.0.0\\com.example.spendwisestudent.app-debug-33:\\layout_activity_history.xml.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\9.0.0\\com.example.spendwisestudent.app-main-35:\\layout\\activity_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\9.0.0\\com.example.spendwisestudent.app-debug-33:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\9.0.0\\com.example.spendwisestudent.app-main-35:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\9.0.0\\com.example.spendwisestudent.app-debug-33:\\layout_activity_add_edit_expense.xml.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\9.0.0\\com.example.spendwisestudent.app-main-35:\\layout\\activity_add_edit_expense.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\9.0.0\\com.example.spendwisestudent.app-debug-33:\\layout_item_expense.xml.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\9.0.0\\com.example.spendwisestudent.app-main-35:\\layout\\item_expense.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\9.0.0\\com.example.spendwisestudent.app-debug-33:\\layout_statistics.xml.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\9.0.0\\com.example.spendwisestudent.app-main-35:\\layout\\statistics.xml"
+    },
+    {
+        "merged": "com.example.spendwisestudent.app-debug-33:/layout_activity_statistics.xml.flat",
+        "source": "com.example.spendwisestudent.app-main-35:/layout/activity_statistics.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\9.0.0\\com.example.spendwisestudent.app-debug-33:\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\9.0.0\\com.example.spendwisestudent.app-main-35:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\9.0.0\\com.example.spendwisestudent.app-debug-33:\\drawable_bg_card.xml.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\9.0.0\\com.example.spendwisestudent.app-main-35:\\drawable\\bg_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\9.0.0\\com.example.spendwisestudent.app-debug-33:\\drawable_bg_input.xml.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\9.0.0\\com.example.spendwisestudent.app-main-35:\\drawable\\bg_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\9.0.0\\com.example.spendwisestudent.app-debug-33:\\layout_activity_budget.xml.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\9.0.0\\com.example.spendwisestudent.app-main-35:\\layout\\activity_budget.xml"
+    }
+]
